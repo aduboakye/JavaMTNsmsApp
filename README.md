@@ -24,16 +24,18 @@ Requirements
   
 Installation
 
-1. Clone the repository.
-2. Import the project into your preferred IDE (e.g. NotePad).
-3. Run the application.
-cd [ Preffered Directory]
-javac SmsBulk.java
-java SmsBulk
-
+1. Clone the repository: `git clone (link unavailable)
+2. Navigate to the project directory: cd JavaSms
+3. Compile the Java code: javac SmsBulk.java
+4. Run the application: java SmsBulk
 Troubleshooting
 
 - Contact Adu Boakye at aduboakyeyiadomowusu@gmail.com for technical issues.
+ 
+Limitations
+- No database integration (data is stored in memory).
+- GUI code does not use a database language.
+
 
 
 
